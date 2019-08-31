@@ -1,0 +1,22 @@
+{
+  "name": "social-media",
+  "version": "1.0.0",
+  "description": "Social Media TecMeadow",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivekregmi/Social-Network-Tec-Meadow.git"
+  },
+  "author": "Vivek Regmi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivekregmi/Social-Network-Tec-Meadow/issues"
+  },
+  "homepage": "https://github.com/vivekregmi/Social-Network-Tec-Meadow#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
