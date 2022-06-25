@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/vivekregmi/Social-Network-Tec-Meadow#readme",
   "dependencies": {
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "nodemon": "^1.19.1"
   }
 }
